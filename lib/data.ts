@@ -213,7 +213,7 @@ export const testimonials: Testimonial[] = [
     title: 'Founder at Dopay Films Ltd',
     avatar: 'https://framerusercontent.com/images/85SQAQypYQ32dm7qiRHSnzB31o.jpeg?lossless=1&width=800&height=800',
     companyLogo: 'https://framerusercontent.com/images/U6OYSsWKF0bKokRcNiHSQ09KPOE.png?width=560&height=560',
-    quote: "Having worked alongside Henry at Sigma, I've been consistently impressed by his exceptional skills as a frontend engineer. Henry's hands-on approach and dedication to building robust web and mobile applications have greatly contributed to our project's success.",
+    quote: "Having worked alongside Sola at Sigma, I've been consistently impressed by his exceptional skills as a frontend engineer. Henry's hands-on approach and dedication to building robust web and mobile applications have greatly contributed to our project's success.",
     stars: 5,
   },
   {
